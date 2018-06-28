@@ -1,0 +1,10 @@
+body{
+	width:100%;
+	height:auto;
+}
+.main{
+background:url(../violin.jpg) center center no-repeat ;
+background-size: cover;
+    height:800px;
+    width: 100%;
+}
